@@ -20,8 +20,7 @@ Apex is a hardware project built to measure the speed of sound using a Raspberry
 ## PCB Pictures
 
 ### schematics
-
-https://hackclub.slack.com/files/U07U0CMNWGP/F08LVFSCQHH/image.png
+![image](https://github.com/user-attachments/assets/ab0a8613-94ad-4fbc-ba2b-f81a6876545f)
 
 ## How It Works
 
